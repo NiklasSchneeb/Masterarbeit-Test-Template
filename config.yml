@@ -79,7 +79,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Niklas Schneeberger"
+      text: "Wie Schön muss Krise aussehen?"
       icon: favicon.ico
       iconHeight: 18
 
