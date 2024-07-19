@@ -56,10 +56,10 @@
     <loc>http://localhost:1313/tags/oleic-science/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/alle-artikel/</loc>
+    <loc>http://localhost:1313/papers/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/alle-artikel/paper1/</loc>
+    <loc>http://localhost:1313/papers/paper1/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/canine-pulmonary-efficiency/</loc>
@@ -74,16 +74,16 @@
     <loc>http://localhost:1313/tags/sausage-dogs/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/alle-artikel/paper2/</loc>
+    <loc>http://localhost:1313/papers/paper2/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/zoology/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/courses/</loc>
+    <loc>http://localhost:1313/alle-artikel/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/courses/course1/</loc>
+    <loc>http://localhost:1313/alle-artikel/course1/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/books/</loc>
@@ -107,7 +107,7 @@
     <loc>http://localhost:1313/tags/profanity/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/courses/course2/</loc>
+    <loc>http://localhost:1313/alle-artikel/course2/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/archive/</loc>
