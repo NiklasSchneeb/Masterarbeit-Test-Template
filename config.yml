@@ -53,8 +53,9 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Niklas Schneeberger
-          subtitle: "Wie schön muss Krise aussehen? – Ein gestalterischer Blick auf die Optimierung im Katastrophenschutz"
+          title: Masterarbeit Niklas Schneeberger
+          subtitle: "Wie schön muss Krise aussehen? 
+          – Ein gestalterischer Blick auf die Optimierung im Katastrophenschutz"
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
