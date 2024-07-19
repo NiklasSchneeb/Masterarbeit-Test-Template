@@ -79,7 +79,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Wie Schön muss Krise aussehen?"
+      text: "Startseite"
       icon: favicon.ico
       iconHeight: 18
 
