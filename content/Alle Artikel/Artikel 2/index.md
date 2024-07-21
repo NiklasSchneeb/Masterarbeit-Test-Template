@@ -20,6 +20,7 @@ disableAnchoredHeadings: false
 
 ## Introduction
 
+
 This course covers topics related to profanity in Early Irish. It relates such profanity to profanity in modern English:
 
 + Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
