@@ -1,6 +1,6 @@
 ---
 title: "Course Title (less than 70 characters)" 
-date: 2006-03-15
+date: 2024-08-25
 url: /course/
 aliases:
     - /old_url.html
